@@ -18,11 +18,16 @@ namespace LogicPractise
             //Overridechild.over();
             //ReverseString.Reverse();
             //Palindrome.Palind();
-            //PrintPattern.Pattern();
+            PrintPattern.Pattern();
             //RemoveDuplicate.RemoveDup();
             //FactorialOfNum.Factorial();
-            OddEvenNumber.OENumber();
-            
+            //OddEvenNumber.OENumber();
+            //FizzBuzz.FIZZBUZZ();
+            //SwitchCase.PrintDays();
+            //SplitString s = new SplitString();
+            //s.Split();
+            //FindRepeatedLetter.Repeat();
+            //PrintYears.PrintYear();
 
         }
     }
